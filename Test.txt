@@ -1,0 +1,21 @@
+Created on 07/03/2017 11:22:28 AM
+Created by ryabuki
+
+
+Data starts here
+ID	Title	Release Date	Length	Genre										
+1	The Avengers	04/05/2012	143	Action										
+2	The Dark Knight Rises	20/07/2012	165	Action										
+3	The Hunger Games	23/03/2012	142	Adventure										
+4	Skyfall	09/11/2012	143	Action										
+5	The Hobbit	14/12/2012	169	Fantasy										
+6	The Twilight	16/11/2012	116	Fantasy										
+7	Spider-Man	03/07/2012	136	Action										
+8	Brave	22/06/2012	93	Animation										
+9	Ted	29/06/2012	112	Comedy										
+10	Madagascar 3	08/06/2012	93	Animation										
+11	The Lorax	02/03/2012	86	Animation										
+12	Wreck It Ralph	02/11/2012	101	Animation										
+13	Lincoln	09/11/2012	150	Biography										
+14	Pokemon	05/02/2017	100	Animation										
+	
